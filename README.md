@@ -1,4 +1,5 @@
-# ck-distribution
+# correlated k-distribution
+
 This rep. contains the codes required to make a correlated-k 
 distribution spectra which frees one from the hassle 
 of tiresome line-by-line computations for computing full/1D reflected flux. 
