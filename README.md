@@ -10,4 +10,4 @@ Dependencies:
 - PyMieDAP: https://gitlab.com/loic.cg.rossi/pymiedap
 - HAPI: https://hitran.org/hapi/
 
-Parts of this code have been used to produce this work: https://www.essoar.org/doi/abs/10.1002/essoar.10501491.1
+Parts of this code have been used to produce this work which is under review/in-prep: https://www.essoar.org/doi/abs/10.1002/essoar.10501491.1
